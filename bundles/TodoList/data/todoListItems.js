@@ -1,5 +1,4 @@
-module.exports = {
-  data: [
+const data =  [
     {
       id: 1,
       name: 'Pick up dry cleaners',
@@ -30,5 +29,7 @@ module.exports = {
       name: 'Call Sundari',
       isComplete: false
     }
-  ]
-};
+];
+
+
+export default data;

@@ -1,5 +1,5 @@
 import React from 'react';
-import TodoListPage from './components/TodoListPage';
+import TodoListPage from './components/TodoListPage/TodoListPage';
 import { render } from 'react-dom';
 
 render(

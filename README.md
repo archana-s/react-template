@@ -2,4 +2,8 @@
 ## TODO List
 # Fetch the entry.js from every bundle
 # Update browser live
-# CSS - kala
+# CSS - Fragmos - Figure out integration plan
+# Selenium Tests
+## Running Locally
+### npm run Selenium
+### It is not yet configured to run on external services like Sauce labs
